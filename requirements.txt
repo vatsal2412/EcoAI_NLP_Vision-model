@@ -1,0 +1,7 @@
+transformers
+torch
+gradio
+matplotlib
+networkx
+Pillow
+spacy

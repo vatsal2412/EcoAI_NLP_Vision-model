@@ -1,4 +1,4 @@
-# 🌱 EcoAI Studio
+# 🌱 EcoAI_nlp_vision-model
 
 A Gradio-based interactive app that combines NLP and vision models for environmental applications.
 
